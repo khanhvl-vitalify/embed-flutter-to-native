@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-My App 1/Pods-My App 1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/audioplayers_darwin/audioplayers_darwin.framework
+${BUILT_PRODUCTS_DIR}/path_provider_foundation/path_provider_foundation.framework
+${BUILT_PRODUCTS_DIR}/share_plus/share_plus.framework
