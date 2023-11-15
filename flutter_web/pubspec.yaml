@@ -36,7 +36,7 @@ dependencies:
   hive_flutter: ^1.1.0
 
   my_flutter:
-    path: './my_flutter'
+    path: '../my_flutter'
 
 dev_dependencies:
   flutter_test:

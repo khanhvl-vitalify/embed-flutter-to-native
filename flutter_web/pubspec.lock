@@ -331,7 +331,7 @@ packages:
   my_flutter:
     dependency: "direct main"
     description:
-      path: my_flutter
+      path: "../my_flutter"
       relative: true
     source: path
     version: "1.0.0+1"
